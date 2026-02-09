@@ -1,2 +1,5 @@
 vae_outputs/weights/
 archive/
+gan_outputs/weights/
+arhcive/cifar-10
+*.png
