@@ -1,9 +1,6 @@
 vae_outputs/weights/
 archive/
 gan_outputs/weights/
-<<<<<<< HEAD
 archive.zip
-=======
 arhcive/cifar-10
-*.png
->>>>>>> f0241c96922595ace999fd553a556ca67d62c9d6
+wgan_outputs/weights/Experiment1/
